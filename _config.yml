@@ -1,6 +1,6 @@
 name: 吹雪家今天的饭
 permalink: :year/:month/:day/:title
-baseurl: /Fubuki
+baseurl: /Fubuki-s-Daily-Menu
 
 # Your blog's start year and this year, showed in the footer left
 # start is optional
